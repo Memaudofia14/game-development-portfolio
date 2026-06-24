@@ -1,53 +1,123 @@
-# Mema Udofia
+# 👋 Hi, I'm Mema Udofia
 
-## Game Developer | Technical Artist | AI Data Specialist
+### 🎮 Game Developer | Technical Artist | AI Data Specialist
 
-Passionate game developer with experience building interactive 2D and 3D applications, gameplay systems, and digital assets.
+Passionate about creating interactive experiences, gameplay systems, and AI-assisted digital assets. Experienced with 2D and 3D game development frameworks and modern development tools.
 
-## Technical Skills
+---
 
+## 🚀 Technical Skills
+
+### Game Engines
 - Godot
 - Defold
 - Solar2D
 - Panda3D
 - Stride
+
+### Programming Languages
 - GDScript
 - Python
 - Lua
 - C#
+
+### Tools
 - Blender
-- Git
+- Git & GitHub
+- Visual Studio Code
+- Photoshop
 
-## Projects
+### Areas of Expertise
+- Gameplay Programming
+- UI Development
+- Asset Integration
+- Debugging & Optimization
+- Animation Systems
 
-### Top-Down Adventure Game (Godot)
+---
+
+# 🎯 Featured Projects
+
+## 🗡️ Top-Down Adventure Game (Godot)
+
+Built a 2D action-adventure game featuring:
+
 - Player movement and combat systems
-- Enemy AI and inventory management
-- Multiple levels and dialogue mechanics
+- Inventory and dialogue mechanics
+- Enemy AI
+- Multiple levels and scene transitions
 
-### Endless Runner Mobile Game (Defold)
-- Obstacle spawning and score system
+**Tech Stack:** Godot • GDScript
+
+---
+
+## 🏃 Endless Runner Mobile Game (Defold)
+
+Features:
+
+- Infinite obstacle generation
+- Score and progression system
+- Responsive controls
 - Mobile optimization
-- Sound effects and responsive controls
 
-### 2D Puzzle Game (Solar2D)
-- Save/load system
+**Tech Stack:** Defold • Lua
+
+---
+
+## 🧩 Puzzle Challenge (Solar2D)
+
+Features:
+
+- Save and load system
+- Animated UI
 - Level progression
-- UI and animations
+- Achievement tracking
 
-### 3D Interactive Simulation (Panda3D)
+**Tech Stack:** Solar2D • Lua
+
+---
+
+## 🌍 3D Interactive Simulation (Panda3D)
+
+Features:
+
 - Camera controls
-- Object interaction system
-- Event-driven gameplay
+- Object interactions
+- Event-driven systems
+- Environment management
 
-## Additional Experience
+**Tech Stack:** Panda3D • Python
 
-- AI model evaluation
-- Data annotation
-- Quality assurance
-- Prompt engineering
+---
 
-## Contact
+# 🤖 AI & Data Annotation Experience
 
-GitHub: https://github.com/Memaudofia14# game-development-portfolio
-Portfolio showcasing game development projects, gameplay systems and AI- assisted digital asset workflows.
+- AI Model Evaluation
+- Data Annotation
+- Prompt Engineering
+- Quality Assurance
+- Content Review
+- Multimedia Assessment
+
+---
+
+# 📚 Continuous Learning
+
+Currently expanding knowledge in:
+
+- Advanced Game Systems
+- AI-Assisted Development
+- 3D Graphics
+- Procedural Generation
+- Interactive Simulations
+
+---
+
+# 📫 Connect With Me
+
+- GitHub: **https://github.com/Memaudofia14**
+- Email: **memaudofia@email.com**
+
+---
+
+⭐ Thanks for visiting my profile!
